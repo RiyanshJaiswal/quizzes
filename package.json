@@ -1,0 +1,24 @@
+{
+  "homepage": "https://tourmaline-moonbeam-ebc13a.netlify.app/",
+  "name": "demo",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.3",
+    "axios": "^1.6.7",
+    "canvas-confetti": "^1.9.3",
+    "chart.js": "^4.4.8",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "execa": "latest",
+    "gh-pages": "^6.1.1",
+    "vite": "^2.8.0"
+  }
+}
